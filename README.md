@@ -1,3 +1,2 @@
-Hello!
-this is Rami Change
+This is a fork of [Linux/IT Career Hub].
 
